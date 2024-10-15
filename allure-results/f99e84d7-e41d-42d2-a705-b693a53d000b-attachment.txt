@@ -1,0 +1,1 @@
+2024-10-15 18:31:06 [32mINFO[0m bookingid=407 booking=Booking(firstname='Jojo', lastname='Moro', totalprice=222, depositpaid=True, bookingdates=BookingDates(checkin=datetime.date(2018, 1, 1), checkout=datetime.date(2019, 1, 1)), additionalneeds='Breakfast')

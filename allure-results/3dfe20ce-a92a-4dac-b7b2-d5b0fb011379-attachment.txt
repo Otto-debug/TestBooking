@@ -1,0 +1,1 @@
+2024-10-15 18:31:02 [32mINFO[0m firstname='Mary' lastname='Jones' totalprice=487 depositpaid=False bookingdates=BookingDates(checkin=datetime.date(2016, 8, 13), checkout=datetime.date(2017, 2, 26)) additionalneeds='Breakfast'
